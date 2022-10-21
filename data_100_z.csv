@@ -1,2 +1,2 @@
 numero de maquinas,prob. de falha,tempo de reparo,maquinas suplentes,tempo de colpaso, tempo de alerta
-10,0.01,100,0.1,15391.0,16.7
+100,0.01,100,0.1,10000.0,8.0
